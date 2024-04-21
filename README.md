@@ -26,24 +26,18 @@
 
 
 
-#   Projeto de extensão
+#   Exercicios sobre banco de dados
 
 
-*Construção de um site simples sobre mim*
+*Exemplos e exercicios em banco de dados oracle*
 
-## Desafio na construção de um site simples sobre meu perfil
+## Desafio de compreender um pouco sobre banco de dados
 
-*Nessa construção apenas coloquei 3 tópicos: **Sobre mim** ; **Expectativa** ; **Por que estou me candidatando***
+*Nessa construção focarei em projetos relacionados a/. *filtragem de dados*; **busca de dados**;
 
 ####  Linguagens usadas e Softwares
 
--Javascript
-
--Html
-
--Gitbash
-
--VsCode
+-SQL server
 
 ####  Sistema operacional
 -Windows 10
@@ -59,12 +53,6 @@
 -->
 
 -Shields Io
-
-
-## Site link
-
--https://sung-99.github.io/Sobre-mim-site/Index.html
-
 
 ##  Autor Nome
 
