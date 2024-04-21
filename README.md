@@ -33,7 +33,7 @@
 
 ## Desafio de compreender um pouco sobre banco de dados
 
-*Nessa construção focarei em projetos relacionados a/. *filtragem de dados*; **busca de dados**;
+*Nessa construção focarei em projetos relacionados a: *filtragem de dados* ; **busca de dados**;
 
 ####  Linguagens usadas e Softwares
 
