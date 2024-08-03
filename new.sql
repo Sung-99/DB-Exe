@@ -1,3 +1,4 @@
+
 create table Estudio
     (CodEstudio INT primary key NOT NULL,
     nome_Estudio varchar2(30) NOT NULL);
